@@ -11,7 +11,7 @@ Success! You've managed to infiltrate Commander Lambda's evil organization, and 
 
 ## Level 1
 
-The first challenege was not so bad, I found a translation chart on to help [wikipedia](https://en.wikipedia.org/wiki/Braille_ASCII).
+The first challenege was not so bad, I found a translation chart on [wikipedia](https://en.wikipedia.org/wiki/Braille_ASCII) to help. The idea here is to map your string to the corresponding Braille, then use a loop to build the translated string from scratch.
 
 Solution: [braille.py](Code/braille.py)
 
