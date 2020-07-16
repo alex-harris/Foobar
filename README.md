@@ -11,4 +11,4 @@ Success! You've managed to infiltrate Commander Lambda's evil organization, and 
 
 ## Level 1
 
-Level 1 
+[Braille Translation Solution](Code/braille.py)
