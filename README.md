@@ -5,7 +5,7 @@ I recently got a funky pop up while doing some reading about Python and it turns
 ![foobar popup](images/foobar_popup.png)
 
 ## I want to play
-Once you accept, you are taken to a Linux-y shell within Chrome where you can use a couple of commands to change directories and view files. The solutions can be written in either Java or Python. We start off as a lowly Minion :
+Once you accept, you are taken to a Linux-y shell within Chrome where you can use a couple of commands to change directories and view/edit files. The solutions can be written in either Java or Python. We start off as a lowly Minion :
 
 Success! You've managed to infiltrate Commander Lambda's evil organization, and finally earned yourself an entry-level position as a Minion on her space station. From here, you just might be able to subvert her plans to use the LAMBCHOP doomsday device to destroy Bunny Planet. Problem is, Minions are the lowest of the low in the Lambda hierarchy. Better buck up and get working, or you'll never make it to the top...
 
