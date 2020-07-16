@@ -16,11 +16,3 @@ Prompt: [Braille Translation](Questions/1_Braille_Translation.md)
 The first challenge was not so bad, I found a translation chart on [wikipedia](https://en.wikipedia.org/wiki/Braille_ASCII) to help. The idea here is to map your string to the corresponding Braille, then use a loop to build the translated string from scratch.
 
 Solution: [braille.py](Code/braille.py)
-
-
-
-Input:
-Solution.solution("The quick brown fox jumps over the lazy dog")
-Output:
-    000001011110110010100010000000111110101001010100100100101000000000110000111010101010010111101110000000110100101010101101000000010110101001101100111100011100000000101010111001100010111010000000011110110010100010000000111000100000101011101111000000100110101010110110
-
