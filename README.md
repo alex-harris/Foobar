@@ -5,7 +5,7 @@ I recently got a funky pop up while doing some reading about Python and it turns
 ![foobar popup](images/foobar_popup.png)
 
 ## I want to play
-Once you accept, you are taken to a Linux-y shell within Chrome where you can use a couple of commands to change directories and view files. The solutions can be written in either Java or Python. We begin the challenge as a lowly Minion :
+Once you accept, you are taken to a Linux-y shell within Chrome where you can use a couple of commands to change directories and view files. The solutions can be written in either Java or Python. We start off as a lowly Minion :
 
 Success! You've managed to infiltrate Commander Lambda's evil organization, and finally earned yourself an entry-level position as a Minion on her space station. From here, you just might be able to subvert her plans to use the LAMBCHOP doomsday device to destroy Bunny Planet. Problem is, Minions are the lowest of the low in the Lambda hierarchy. Better buck up and get working, or you'll never make it to the top...
 
@@ -15,7 +15,7 @@ The first challenge was not so bad, I found a translation chart on [wikipedia](h
 
 Solution: [braille.py](Code/braille.py)
 
-### Braille Translation
+#### Braille Translation
 
 Because Commander Lambda is an equal-opportunity despot, she has several visually-impaired minions. But she never bothered to follow intergalactic standards for workplace accommodations, so those minions have a hard time navigating her space station. You figure printing out Braille signs will help them, and - since you'll be promoting efficiency at the same time - increase your chances of a promotion. 
 
@@ -34,12 +34,12 @@ where 1 represents a bump and 0 represents no bump.  Put together, ""code"" beco
 
 Write a function solution(plaintext) that takes a string parameter and returns a string of 1's and 0's representing the bumps and absence of bumps in the input string. Your function should be able to encode the 26 lowercase letters, handle capital letters by adding a Braille capitalization mark before that character, and use a blank character (000000) for spaces. All signs on the space station are less than fifty characters long and use only letters and spaces.
 
-### Languages
+#### Languages
 
 To provide a Python solution, edit solution.py
 To provide a Java solution, edit Solution.java
 
-### Test cases
+#### Test cases
 
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
