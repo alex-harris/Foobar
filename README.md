@@ -75,12 +75,12 @@ Prompt: [Prepare the Bunnies' Escape](Questions/3.3_Prepare_the_Bunnies_Escape.t
 
 Sadly, Foobar only accepts standard libraries, otherwise https://pypi.org/project/pathfinding/ would have saved the day. This was the most challenging problem I encountered, which is to be expected from the final part of Level 3. After hours of reading about search algorithms it seemed like A* was the best method, though the heuristic is calculated for diagonal neighbors so it had to be simplified to just look at (0, -1), (-1, 0), (0, 1), (1, 0).
 
-While I still spend time understanding these algos, credit to @hirenvasani for posting his [solution](https://github.com/hirenvasani/foobar/blob/master/prepare_the_bunnies_escape.py) which I was able to play around with and submit a modified version of. This is some really clean code!
+While I still spend time fully understanding these algos, credit to @hirenvasani for posting his [solution](https://github.com/hirenvasani/foobar/blob/master/prepare_the_bunnies_escape.py) which I was able to play around with and submit a modified version of. This is some really clean code!
 
 Original solution: _Coming soon_
 
 #
 
-I'm really glad I had the opportunity to try this challenge, this was a great way to learn more about Python and algorithms in a hands-on way. Time to see if I can improve my solutions and take on Level 4 and 5.
+After Level 3 you are asked to provide some of your info for a recruiter to potentially reach out! Even if I don't hear, I'm really glad I had the opportunity to try this challenge, this was a great way to learn more about Python and algorithms in a hands-on way. Time to see if I can improve my solutions and take on Level 4 and 5.
 
 ![status](images/status.png)
