@@ -1,4 +1,4 @@
-Solution: [elevator_maint.py](Code/elevator_maint.py)
+Solution: Code/elevator_maint.py
 
 Elevator Maintenance
 ====================
