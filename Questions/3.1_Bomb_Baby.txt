@@ -1,4 +1,5 @@
-Solution: https://github.com/alex-harris/Foobar/tree/master/Code/bomb_baby.py
+Weak solution: https://github.com/alex-harris/Foobar/tree/master/Code/bomb_baby.py
+Better solution: https://github.com/alex-harris/Foobar/tree/master/Code/bomb_baby2.py
 
 Bomb, Baby!
 ===========
