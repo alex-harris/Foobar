@@ -57,7 +57,7 @@ Like I mentioned earlier, in addition to the two test cases are hidden cases tha
 
 Prompt: [Bomb, Baby!](Questions/3.1_Bomb_Baby.txt)
 
-I eventually realized here that my one failing case must have been caused by a timeout issue. Since the problem states that the input values can go up to 10^50, I needed to find a way to account for such large numbers. Reccursion seemed to be the way to go instead of a while loop. Using greatest common denominator to quickly identify the impossible cases also saves a lot of time. So, my first solution technically works...eventually.
+I eventually realized here that my one failing case must have been caused by a timeout issue. Since the problem states that the input values can go up to 10^50, I needed to find a way to account for such large numbers. Recursion seemed to be the way to go instead of a while loop. Using greatest common denominator to quickly identify the impossible cases also saves a lot of time. So, my first solution technically works...eventually.
 
 Small number solution: [bomb_baby.py](Code/bomb_baby.py) ; Better solution: [bomb_baby2.py](Code/bomb_baby2.py)
 
