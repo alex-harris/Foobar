@@ -47,7 +47,7 @@ TL;DR, given a start and end point on a chessboard, return the minimum number of
 |48|49|50|51|52|53|54|55|
 |56|57|58|59|60|61|62|63|
 
-Solution: [knight.py](Code/knight.py) ; _Better solution coming soon_
+Solution: [knight.py](Code/knight.py) ; Better solution: _Coming soon_
 
 ## Level 3
 
@@ -67,9 +67,20 @@ Prompt: [Find the Access Codes](Questions/3.2_Find_the_Access_Codes.txt)
 
 I really liked this one, but I ran into a similar situation again where one hidden test case was still failing. Even as I was coding it I had a feeling a triple nested for loop would be inefficient once the input list got sufficiently large.
 
-Cubic solution: [accesscodes.py](Code/accesscodes.py) ; Better solution: [accesscodes2.py](Code/accesscodes2.py)
+Cubic solution: [accesscodes.py](Code/accesscodes.py) ; Quadratic solution: [accesscodes2.py](Code/accesscodes2.py)
 
 #
 
+Prompt: [Prepare the Bunnies' Escape](Questions/3.3_Prepare_the_Bunnies_Escape.txt)
 
+Sadly, Foobar only accepts standard libraries, otherwise https://pypi.org/project/pathfinding/ would have saved the day. This was the most challenging problem I encountered, which is to be expected from the final part of Level 3. After hours of reading about search algorithms it seemed like A* was the best method, though the heuristic is calculated for diagonal neighbors so it had to be simplified to just look at (0, -1), (-1, 0), (0, 1), (1, 0).
 
+While I still spend time understanding these algos, credit to @hirenvasani for posting his [solution](https://github.com/hirenvasani/foobar/blob/master/prepare_the_bunnies_escape.py) which I was able to play around with and submit a modified version of. This is some really clean code!
+
+Original solution: _Coming soon_
+
+#
+
+I'm really glad I had the opportunity to try this challenge, this was a great way to learn more about Python and algorithms in a hands-on way. Time to see if I can improve my solutions and take on Level 4 and 5.
+
+![status](images/status.png)
