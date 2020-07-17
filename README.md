@@ -81,6 +81,6 @@ Original solution: _Coming soon_
 
 #
 
-After Level 3 you are asked to provide some of your info for a recruiter to potentially reach out! Even if I don't hear, I'm really glad I had the opportunity to try this challenge, this was a great way to learn more about Python and algorithms in a hands-on way. Time to see if I can improve my solutions and take on Level 4 and 5.
+After Level 3 you are asked to provide some of your info for a recruiter to potentially reach out! Either way, I'm really glad I had the opportunity to try this challenge, this was a great way to learn more about Python and algorithms in a hands-on way. Time to see if I can improve my solutions and take on Level 4 and 5.
 
 ![status](images/status.png)
